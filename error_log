@@ -1,0 +1,66 @@
+[22-May-2024 11:13:30 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
+[06-Jun-2024 08:25:45 UTC] [ERROR] : WP_CACHE constant is not present in wp-config.php
+[06-Jun-2024 08:25:55 UTC] [ERROR] : WP_CACHE constant is not present in wp-config.php
+[06-Jun-2024 08:25:56 UTC] [ERROR] : WP_CACHE constant is not present in wp-config.php
+[28-Jun-2024 20:57:05 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
+[10-Jul-2024 15:35:09 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 6.3.
+[10-Jul-2024 15:35:09 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 6.3.
+[10-Jul-2024 15:35:12 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 6.3.
+[10-Jul-2024 15:35:12 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 6.3.
+[13-Jul-2024 15:47:47 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[13-Jul-2024 15:49:46 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[13-Jul-2024 15:54:57 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[13-Jul-2024 16:59:53 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[13-Jul-2024 17:30:09 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[13-Jul-2024 17:38:42 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[13-Jul-2024 17:50:09 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[13-Jul-2024 19:10:56 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[13-Jul-2024 19:23:38 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[13-Jul-2024 22:56:34 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[13-Jul-2024 23:02:28 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[13-Jul-2024 23:09:18 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[13-Jul-2024 23:29:03 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[13-Jul-2024 23:41:23 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[13-Jul-2024 23:41:58 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[13-Jul-2024 23:49:37 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[13-Jul-2024 23:58:43 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[13-Jul-2024 23:58:51 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[13-Jul-2024 23:58:57 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[14-Jul-2024 00:03:33 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[15-Jul-2024 01:19:30 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[15-Jul-2024 03:30:29 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[15-Jul-2024 03:31:10 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[15-Jul-2024 08:26:16 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[15-Jul-2024 09:32:09 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[15-Jul-2024 09:39:00 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[15-Jul-2024 09:40:56 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[15-Jul-2024 09:45:07 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[15-Jul-2024 09:46:03 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[15-Jul-2024 09:49:22 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[15-Jul-2024 09:52:23 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[15-Jul-2024 09:57:05 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[15-Jul-2024 11:00:11 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[15-Jul-2024 11:04:33 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[15-Jul-2024 16:33:55 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[15-Jul-2024 16:42:07 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[15-Jul-2024 17:08:49 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[16-Jul-2024 18:29:22 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[17-Jul-2024 17:39:18 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[18-Jul-2024 10:50:30 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[18-Jul-2024 11:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[18-Jul-2024 12:06:29 UTC] Cron unschedule event error for hook: do_pings, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":false,"args":[]}
+[18-Jul-2024 12:09:03 UTC] Cron unschedule event error for hook: do_pings, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":false,"args":[]}
+[18-Jul-2024 12:09:04 UTC] Cron unschedule event error for hook: do_pings, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":false,"args":[]}
+[18-Jul-2024 13:15:15 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[18-Jul-2024 13:33:26 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[18-Jul-2024 13:38:41 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[18-Jul-2024 21:01:46 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[19-Jul-2024 10:57:38 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[19-Jul-2024 14:32:04 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[20-Jul-2024 02:23:26 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[21-Jul-2024 13:47:54 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[22-Jul-2024 13:01:35 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[24-Jul-2024 12:22:10 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[25-Jul-2024 01:01:02 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[26-Jul-2024 16:58:56 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
+[29-Jul-2024 20:13:42 UTC] PHP Warning:  A non-numeric value encountered in /home/redcbltt/public_html/jill/wp-content/plugins/elementor-pro/modules/woocommerce/module.php on line 1601
